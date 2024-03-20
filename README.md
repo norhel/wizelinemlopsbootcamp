@@ -23,10 +23,23 @@ by Christian Ramirez
 forestfires_christianramirez.py
 
 ## Screenshots
+### EDA
+
+Head, Describe
 
 ![alt text](https://github.com/norhel/wizelinemlopsbootcamp/blob/main/bc_head_describe.png?raw=true)
+
+Correlation Matrix
+
 ![alt text](https://github.com/norhel/wizelinemlopsbootcamp/blob/main/bc_Corr_Matrix.png?raw=true)
-![alt text](https://github.com/norhel/wizelinemlopsbootcamp/blob/main/bach2.png?raw=true)
+
+Distributions
+
+![alt text](https://github.com/norhel/wizelinemlopsbootcamp/blob/main/bc_distribution.png?raw=true)
+
+Scatter Plots
+
+![alt text](https://github.com/norhel/wizelinemlopsbootcamp/blob/main/bc_scatter_plots.png?raw=true)
 
 ## License
 
