@@ -8,7 +8,7 @@ We'll use the Forest Fires Dataset (Indices from the Fire Weather Index System: 
 
 by Christian Ramirez
 
-##Tasks included:
+## Tasks included:
 
 1.-Analyze and understand the provided dataset through Exploratory Data Analysis.
 
