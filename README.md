@@ -22,6 +22,12 @@ by Christian Ramirez
 ## Main File:
 forestfires_christianramirez.py
 
+## Screenshots
+
+![alt text](https://github.com/norhel/wizelinemlopsbootcamp/blob/main/bc_head_describe.png?raw=true)
+![alt text](https://github.com/norhel/wizelinemlopsbootcamp/blob/main/bc_Corr_Matrix.png?raw=true)
+![alt text](https://github.com/norhel/wizelinemlopsbootcamp/blob/main/bach2.png?raw=true)
+
 ## License
 
 This project is licensed under the MIT License
