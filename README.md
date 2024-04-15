@@ -25,6 +25,8 @@ forestfires_christianramirez.py
 ## Screenshots
 ### EDA
 
+As the reviewer's feedback suggested, the jupyter notebook was added to see EDA in a more direct way, here it is (https://github.com/norhel/wizelinemlopsbootcamp/blob/main/src/forestfires_christianramirez.ipynb)
+
 Head, Describe
 
 ![alt text](https://github.com/norhel/wizelinemlopsbootcamp/blob/main/bc_head_describe.png?raw=true)
