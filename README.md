@@ -3,7 +3,7 @@
 ## Overview
 
 The target is to predict burned areas using a regression model.
-Dataset file: forestfires.csv
+Dataset file: data/forestfires.csv
 We'll use the Forest Fires Dataset (Indices from the Fire Weather Index System: Drought Code DC, Duff Moisture Code DMC and Fine Fuel Moisture Code FFMC)
 
 by Christian Ramirez
