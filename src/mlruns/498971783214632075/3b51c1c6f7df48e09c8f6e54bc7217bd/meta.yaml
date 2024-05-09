@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/498971783214632075/3b51c1c6f7df48e09c8f6e54bc7217bd/artifacts
+end_time: 1715128401170
+entry_point_name: ''
+experiment_id: '498971783214632075'
+lifecycle_stage: active
+run_id: 3b51c1c6f7df48e09c8f6e54bc7217bd
+run_name: resilient-chimp-970
+run_uuid: 3b51c1c6f7df48e09c8f6e54bc7217bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715128397486
+status: 3
+tags: []
+user_id: chris

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/498971783214632075/e3f9f8d6024b40ffbcfe31fe12ca067f/artifacts
+end_time: 1715128420441
+entry_point_name: ''
+experiment_id: '498971783214632075'
+lifecycle_stage: active
+run_id: e3f9f8d6024b40ffbcfe31fe12ca067f
+run_name: whimsical-conch-770
+run_uuid: e3f9f8d6024b40ffbcfe31fe12ca067f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715128401300
+status: 3
+tags: []
+user_id: chris

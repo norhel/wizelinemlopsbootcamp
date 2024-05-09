@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/498971783214632075/3aeb17b161b346f98008126a830ee7c2/artifacts
+end_time: 1715209008524
+entry_point_name: ''
+experiment_id: '498971783214632075'
+lifecycle_stage: active
+run_id: 3aeb17b161b346f98008126a830ee7c2
+run_name: crawling-ape-255
+run_uuid: 3aeb17b161b346f98008126a830ee7c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715209006740
+status: 3
+tags: []
+user_id: chris

@@ -1,0 +1,18 @@
+data:
+  path: "data/forestfires.csv"
+  repo: ..
+  version: v1
+  test_size: 0.2
+  random_state: 42
+  scale: false
+  data_format: csv
+
+model:
+  n_estimators: 30
+
+evaluation:
+  split_strategy: train_test_split
+
+config:
+  random_seed: 42
+  logging_level: WARN

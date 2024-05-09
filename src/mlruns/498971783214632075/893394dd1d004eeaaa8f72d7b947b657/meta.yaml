@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/498971783214632075/893394dd1d004eeaaa8f72d7b947b657/artifacts
+end_time: 1715209021951
+entry_point_name: ''
+experiment_id: '498971783214632075'
+lifecycle_stage: active
+run_id: 893394dd1d004eeaaa8f72d7b947b657
+run_name: delicate-goat-603
+run_uuid: 893394dd1d004eeaaa8f72d7b947b657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715209008692
+status: 3
+tags: []
+user_id: chris
