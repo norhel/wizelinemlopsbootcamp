@@ -84,7 +84,12 @@ by Christian Ramirez
 ### 6. Set up the correct model structure with the aim of preparing it for deployment. (Módulo 6)
   1. This can be reviewed at the github repository itself.
 
-
+### 7. Create new model versions, that include hyperparameter adjustments or features changes for reproducibility and experimental following (Módulo 7).
+  1. Using MlFlow I was able register diffent models, adjusting hyperparameters; including model artifacts and metrics.
+### 8. Implement a model on your local enviroment using containers and plan retraining, drift, redeploy, scaling and monitoring (Módulo 8)
+  1. A docker container was developed for exposing the API's endpoints, so that inference can be obtained after passing the inputs needed. The resulting monitoring of model drift verification is used to determine if retraining and redeployment is to be done.
+### 9. Show testing and versioning strategies (Módulos 7 y 8)
+  1. Using pytest, some basic unit tests are run verifying among other things, if data file can load, data existence, features existence, training and evaluation; showing if tests were passed or failed.
 
 ## Main File:
 main.py
