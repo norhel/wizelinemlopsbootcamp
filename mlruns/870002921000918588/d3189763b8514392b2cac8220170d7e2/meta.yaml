@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/870002921000918588/d3189763b8514392b2cac8220170d7e2/artifacts
+end_time: 1717210558998
+entry_point_name: ''
+experiment_id: '870002921000918588'
+lifecycle_stage: active
+run_id: d3189763b8514392b2cac8220170d7e2
+run_name: delicate-bass-682
+run_uuid: d3189763b8514392b2cac8220170d7e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717210546629
+status: 3
+tags: []
+user_id: chris

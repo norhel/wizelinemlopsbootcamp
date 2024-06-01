@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/870002921000918588/73f1ecf1ca03499680cc3f31a3236420/artifacts
+end_time: 1717218269996
+entry_point_name: ''
+experiment_id: '870002921000918588'
+lifecycle_stage: active
+run_id: 73f1ecf1ca03499680cc3f31a3236420
+run_name: merciful-snail-90
+run_uuid: 73f1ecf1ca03499680cc3f31a3236420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717218257892
+status: 3
+tags: []
+user_id: chris

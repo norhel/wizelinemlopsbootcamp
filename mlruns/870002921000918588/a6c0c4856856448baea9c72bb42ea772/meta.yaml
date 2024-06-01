@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/870002921000918588/a6c0c4856856448baea9c72bb42ea772/artifacts
+end_time: 1717210546536
+entry_point_name: ''
+experiment_id: '870002921000918588'
+lifecycle_stage: active
+run_id: a6c0c4856856448baea9c72bb42ea772
+run_name: colorful-horse-994
+run_uuid: a6c0c4856856448baea9c72bb42ea772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717210545667
+status: 3
+tags: []
+user_id: chris

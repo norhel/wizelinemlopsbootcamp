@@ -1,0 +1,9 @@
+digest: 0132820d
+name: dataset
+profile: '{"num_rows": 104, "num_elements": 312}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "DC", "required": true}, {"type":
+  "double", "name": "DMC", "required": true}, {"type": "double", "name": "FFMC", "required":
+  true}]}'
+source: '{"tags": {"mlflow.user": "chris", "mlflow.source.name": "C:\\Users\\chris\\coding\\WizelineAI\\mlops\\wizelinemlopsbootcamp\\src\\main.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "9b3e3ceeabe8470fc89513e3d446d36f02f4b73e"}}'
+source_type: code

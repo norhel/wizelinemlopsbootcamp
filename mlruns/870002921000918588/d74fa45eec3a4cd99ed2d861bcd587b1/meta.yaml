@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/870002921000918588/d74fa45eec3a4cd99ed2d861bcd587b1/artifacts
+end_time: 1717218475714
+entry_point_name: ''
+experiment_id: '870002921000918588'
+lifecycle_stage: active
+run_id: d74fa45eec3a4cd99ed2d861bcd587b1
+run_name: popular-koi-422
+run_uuid: d74fa45eec3a4cd99ed2d861bcd587b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717218462272
+status: 3
+tags: []
+user_id: chris

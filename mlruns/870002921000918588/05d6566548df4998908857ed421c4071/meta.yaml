@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/870002921000918588/05d6566548df4998908857ed421c4071/artifacts
+end_time: 1717218257767
+entry_point_name: ''
+experiment_id: '870002921000918588'
+lifecycle_stage: active
+run_id: 05d6566548df4998908857ed421c4071
+run_name: amusing-elk-486
+run_uuid: 05d6566548df4998908857ed421c4071
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717218256426
+status: 3
+tags: []
+user_id: chris

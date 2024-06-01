@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/870002921000918588/be55820f452340cb8c05bed616a11ecb/artifacts
+end_time: 1717220953924
+entry_point_name: ''
+experiment_id: '870002921000918588'
+lifecycle_stage: active
+run_id: be55820f452340cb8c05bed616a11ecb
+run_name: mercurial-grouse-911
+run_uuid: be55820f452340cb8c05bed616a11ecb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717220952221
+status: 3
+tags: []
+user_id: chris

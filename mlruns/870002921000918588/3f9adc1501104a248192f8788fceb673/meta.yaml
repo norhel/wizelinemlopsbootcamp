@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/870002921000918588/3f9adc1501104a248192f8788fceb673/artifacts
+end_time: 1717219284260
+entry_point_name: ''
+experiment_id: '870002921000918588'
+lifecycle_stage: active
+run_id: 3f9adc1501104a248192f8788fceb673
+run_name: capable-hen-325
+run_uuid: 3f9adc1501104a248192f8788fceb673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717219283248
+status: 3
+tags: []
+user_id: chris

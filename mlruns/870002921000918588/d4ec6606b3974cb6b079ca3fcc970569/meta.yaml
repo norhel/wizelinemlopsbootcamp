@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/870002921000918588/d4ec6606b3974cb6b079ca3fcc970569/artifacts
+end_time: 1717218953638
+entry_point_name: ''
+experiment_id: '870002921000918588'
+lifecycle_stage: active
+run_id: d4ec6606b3974cb6b079ca3fcc970569
+run_name: painted-ram-207
+run_uuid: d4ec6606b3974cb6b079ca3fcc970569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717218952147
+status: 3
+tags: []
+user_id: chris

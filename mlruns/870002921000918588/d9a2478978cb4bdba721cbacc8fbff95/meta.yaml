@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/870002921000918588/d9a2478978cb4bdba721cbacc8fbff95/artifacts
+end_time: 1717220855864
+entry_point_name: ''
+experiment_id: '870002921000918588'
+lifecycle_stage: active
+run_id: d9a2478978cb4bdba721cbacc8fbff95
+run_name: gregarious-crane-368
+run_uuid: d9a2478978cb4bdba721cbacc8fbff95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717220854398
+status: 3
+tags: []
+user_id: chris

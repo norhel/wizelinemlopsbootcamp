@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/870002921000918588/7f7a1c9ee18145fa816f1cb8ef2ccba5/artifacts
+end_time: 1717219234037
+entry_point_name: ''
+experiment_id: '870002921000918588'
+lifecycle_stage: active
+run_id: 7f7a1c9ee18145fa816f1cb8ef2ccba5
+run_name: popular-snail-791
+run_uuid: 7f7a1c9ee18145fa816f1cb8ef2ccba5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717219232909
+status: 3
+tags: []
+user_id: chris

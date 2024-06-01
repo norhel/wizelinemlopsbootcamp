@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/870002921000918588/69eb1f0c600346629c5d6daf77675573/artifacts
+end_time: 1717219513432
+entry_point_name: ''
+experiment_id: '870002921000918588'
+lifecycle_stage: active
+run_id: 69eb1f0c600346629c5d6daf77675573
+run_name: rumbling-hen-638
+run_uuid: 69eb1f0c600346629c5d6daf77675573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717219512403
+status: 3
+tags: []
+user_id: chris

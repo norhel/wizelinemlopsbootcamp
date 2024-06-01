@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/870002921000918588/064ba485c199489d8a493e91a6378d38/artifacts
+end_time: 1717220966029
+entry_point_name: ''
+experiment_id: '870002921000918588'
+lifecycle_stage: active
+run_id: 064ba485c199489d8a493e91a6378d38
+run_name: unique-calf-822
+run_uuid: 064ba485c199489d8a493e91a6378d38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717220954047
+status: 3
+tags: []
+user_id: chris

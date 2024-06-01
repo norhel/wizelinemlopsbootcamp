@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/870002921000918588/38d89664aee24162bffcba0067ebf00d/artifacts
+end_time: 1717210116154
+entry_point_name: ''
+experiment_id: '870002921000918588'
+lifecycle_stage: active
+run_id: 38d89664aee24162bffcba0067ebf00d
+run_name: rogue-duck-463
+run_uuid: 38d89664aee24162bffcba0067ebf00d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717210115253
+status: 3
+tags: []
+user_id: chris

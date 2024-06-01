@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/870002921000918588/abc732a317a74aa8a206de2b4b5ca4ae/artifacts
+end_time: 1717210129202
+entry_point_name: ''
+experiment_id: '870002921000918588'
+lifecycle_stage: active
+run_id: abc732a317a74aa8a206de2b4b5ca4ae
+run_name: polite-hawk-845
+run_uuid: abc732a317a74aa8a206de2b4b5ca4ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717210116240
+status: 3
+tags: []
+user_id: chris

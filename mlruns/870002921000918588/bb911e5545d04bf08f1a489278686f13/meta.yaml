@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/870002921000918588/bb911e5545d04bf08f1a489278686f13/artifacts
+end_time: 1717209820566
+entry_point_name: ''
+experiment_id: '870002921000918588'
+lifecycle_stage: active
+run_id: bb911e5545d04bf08f1a489278686f13
+run_name: beautiful-elk-15
+run_uuid: bb911e5545d04bf08f1a489278686f13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717209815883
+status: 3
+tags: []
+user_id: chris

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/870002921000918588/6b7e4bd7e76442459990e36273ff337e/artifacts
+end_time: 1717211733839
+entry_point_name: ''
+experiment_id: '870002921000918588'
+lifecycle_stage: active
+run_id: 6b7e4bd7e76442459990e36273ff337e
+run_name: abrasive-wasp-473
+run_uuid: 6b7e4bd7e76442459990e36273ff337e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717211732978
+status: 3
+tags: []
+user_id: chris
