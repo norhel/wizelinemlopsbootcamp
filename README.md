@@ -94,6 +94,17 @@ by Christian Ramirez
 ## Main File:
 main.py
 
+## MLFlow:
+### To start it use this in the enviroment (it'll start here http://localhost:5000):
+mlflow ui
+
+## Docker:
+### For building the image use:
+docker build --tag ml_model_indiv .
+
+### For running the server (port 8000) to use the API for inference:
+docker run --name ml_app --rm --publish 8000:8000 ml_model_indiv
+
 ## Screenshots
 ### EDA
 
